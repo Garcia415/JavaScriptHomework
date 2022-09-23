@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    padding: 10px;
+    border-radius: 90px;
+    background-color: aqua;
+    text-decoration: none;
+}
